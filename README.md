@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hello there <img src="https://raw.githubusercontent.com/KhangTran2005/KhangTran2005/master/wave.gif" width="30px"> </h2>
 
-Hi, my name is Khang
+Hmmm..., what to put here
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhangTran2005&theme=gruvbox_light&show_icons=true" alt="Tran Duc Khang's Github Stats">
 

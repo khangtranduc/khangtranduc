@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi there!  </h2>
+<h2> Hello there </h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhangTran2005&theme=gruvbox_light&show_icons=true" alt="Tran Duc Khang's Github Stats">

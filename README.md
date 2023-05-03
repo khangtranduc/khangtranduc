@@ -3,9 +3,10 @@
 
 Hmmm..., what to put here
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhangTran2005&theme=gruvbox_light&show_icons=true" alt="Tran Duc Khang's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=khangtranduc&theme=gruvbox_light&show_icons=true" alt="Tran Duc Khang's Github Stats">
 
 </div>
+
 <!--
 **KhangTran2005/KhangTran2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

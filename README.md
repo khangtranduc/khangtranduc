@@ -3,7 +3,7 @@
 
 Hmmm..., what to put here
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khangtranduc&theme=gruvbox_light&show_icons=true" alt="Tran Duc Khang's Github Stats">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=khangtranduc&theme=gruvbox_light&show_icons=true" alt="Tran Duc Khang's Github Stats"> -->
 
 </div>
 
